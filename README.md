@@ -1,4 +1,4 @@
-Simple Weather Application using JavaScript
+Simple Weather Application using JavaScript🌡️
 
 📖 Description
 
@@ -6,13 +6,7 @@ This is a simple weather web application that allows users to search for a city 
 
 The application is built using:
 
-HTML
-
-CSS
-
-JavaScript
-
-OpenWeatherMap API
+HTML CSS JavaScript OpenWeatherMap API
 
 🚀 Features
 
@@ -34,12 +28,6 @@ Background image styling
 
 Clean and modern UI
 
-🛠 Technologies Used
+🛠 Technologies Used:
 
-HTML5
-
-CSS3
-
-JavaScript (ES6)
-
-OpenWeatherMap API
+HTML5 CSS JavaScript (ES6) OpenWeatherMap API
